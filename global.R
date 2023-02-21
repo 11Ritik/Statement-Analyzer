@@ -1,0 +1,8 @@
+library(data.table)
+library(shiny)
+library(shinydashboard)
+library(dplyr)
+library(readxl)
+library(DT)
+library(plotly)
+library(shinycssloaders)
